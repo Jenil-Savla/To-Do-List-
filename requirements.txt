@@ -27,8 +27,6 @@ lazy-object-proxy==1.4.3
 mccabe==0.6.1
 parso==0.7.
 Pillow==8.3.2
-pyjnius==1.2.1
-pylint==2.5.2
 pyparsing==2.4.7
 PySDL2==0.9.7
 PySocks==1.7.1

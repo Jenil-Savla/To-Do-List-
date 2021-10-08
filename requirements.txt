@@ -1,4 +1,3 @@
-android==1.00
 asgiref==3.4.1
 astroid==2.4.1
 audiostream==0.2
